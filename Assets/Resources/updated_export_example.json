@@ -1,0 +1,66 @@
+{
+  "room": {
+    "name": "Living Room",
+    "unit": "m",
+    "height": 3,
+    "walls": [
+      {
+        "name": "Wall 1",
+        "length": 8,
+        "angle_from_segment_point": 90,
+        "items": [
+          {
+            "type": "door",
+            "width": 1.2,
+            "height": 2.1,
+            "margin_from_left": 2,
+            "margin_from_right": 4.8,
+            "margin_from_bottom": 0,
+            "margin_from_top": 0.9
+          }
+        ]
+      },
+      {
+        "name": "Wall 2",
+        "length": 4,
+        "angle_from_segment_point": 180,
+        "items": [
+          {
+            "type": "window",
+            "width": 2,
+            "height": 1.5,
+            "margin_from_left": 1,
+            "margin_from_right": 1,
+            "margin_from_bottom": 1,
+            "margin_from_top": 0.5
+          }
+        ]
+      },
+      {
+        "name": "Wall 3 ",
+        "length": 2,
+        "angle_from_segment_point": 135
+      },
+      {
+        "name": "Wall 4",
+        "length": 2,
+        "angle_from_segment_point": 180
+      },
+      {
+        "name": "Wall 5",
+        "length": 6,
+        "angle_from_segment_point": 270
+      },
+      {
+        "name": "Wall 6",
+        "length": 3.41,
+        "angle_from_segment_point": 0
+      },
+      {
+        "name": "Wall 7",
+        "length": 4.47,
+        "angle_from_segment_point": 315
+      }
+    ]
+  }
+}

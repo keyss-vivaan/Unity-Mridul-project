@@ -1,0 +1,52 @@
+{
+    "room": {
+        "name": "Bed Room",
+        "unit": "ft",
+        "height": 6.247710227966309,
+        "walls": [
+            {
+                "name": "wall3",
+                "length": 10.205535888671875,
+                "angle_from_segment_point": 271.12420654296877,
+                "items": [
+                    {
+                        "type": "Window",
+                        "width": 0.0,
+                        "height": 0.0,
+                        "margin_from_left": 0.0,
+                        "margin_from_right": 0.0,
+                        "margin_from_bottom": 0.0,
+                        "margin_from_top": 0.0
+                    },
+                    {
+                        "type": "Door",
+                        "width": 0.0,
+                        "height": 0.0,
+                        "margin_from_left": 0.0,
+                        "margin_from_right": 0.0,
+                        "margin_from_bottom": 0.0,
+                        "margin_from_top": 0.0
+                    }
+                ]
+            },
+            {
+                "name": "wall2",
+                "length": 10.418728828430176,
+                "angle_from_segment_point": 358.0857238769531,
+                "items": []
+            },
+            {
+                "name": "wall1",
+                "length": 10.70561408996582,
+                "angle_from_segment_point": 96.84899139404297,
+                "items": []
+            },
+            {
+                "name": "wall0",
+                "length": 9.3367919921875,
+                "angle_from_segment_point": 180.47642517089845,
+                "items": []
+            }
+        ]
+    }
+}
